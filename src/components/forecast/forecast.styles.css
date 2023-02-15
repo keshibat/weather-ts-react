@@ -1,0 +1,38 @@
+.forecast-div-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.current-city {
+  font-size: 34px;
+  font-weight: bold;
+
+}
+
+.current-temp {
+  font-size: 34px;
+  font-weight: bold;
+
+}
+
+.days-hours-forecasts-section {
+  padding: 20px;
+}
+
+.days-hours-forecasts {
+  display: inline-block;
+  width: 55px;
+}
+
+
+.hour-text {
+  font-size: 10px;
+}
+
+.temp-text {
+  font-size: 15px;
+  font-weight: bold;
+}

@@ -1,0 +1,19 @@
+.suggestion-lists {
+  width: 200px;
+  background: #f5f5fa;
+  border: 0.2px solid #262628;
+  padding: 2px;
+  border-top: 0.2px solid #262628;
+  border-bottom: 0.2px solid #262628;
+}
+
+.suggestion-list-select {
+  text-align: left;
+  cursor: pointer;
+  width: 100%;
+}
+
+.suggestion-list-select:hover {
+  background: #262628;
+  color: #f5f5fa;
+}
